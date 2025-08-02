@@ -1,10 +1,10 @@
 # Customer-Sales-Data-Analysis
 
-🔍 Project Overview
+**🔍** Project Overview****
 
 This project focuses on analyzing and deriving actionable insights from customer, agent, and order datasets using MySQL. It simulates a real-world business scenario involving sales tracking, customer behavior analysis, and agent performance evaluation.
 
-🚀 Key Objectives
+**🚀 **Key Objectives****
 
 Clean and preprocess raw customer, agent, and order data.
 
@@ -16,7 +16,7 @@ Track agent commissions and customer management effectiveness.
 
 Create reusable SQL logic via procedures and user-defined functions (UDFs).
 
-🛠️ Tools Used
+**🛠️ **Tools Used****
 
 Database: MySQL
 
@@ -24,7 +24,7 @@ Techniques: Joins, CTEs, Aggregations, Window Functions, UDFs, Stored Procedures
 
 Visualization: PowerPoint summary deck
 
-📁 Files Included
+**📁 **Files Included****
 
 customer_sales_analysis.sql – All queries and logic
 
@@ -32,7 +32,7 @@ CustomerAgentOrder_Data.xlsx – Sample input data (if you want to share)
 
 CustomerSalesInsights.pptx – Visual summary of findings
 
-📈 Key Insights
+**📈 Key Insights**
 
 Top 5 cities by total revenue
 
@@ -42,7 +42,7 @@ Agent rankings based on commission and customer count
 
 Spending patterns across different customer grades
 
-📎 How to Use
+**📎 How to Use**
 
 Import the datasets into a MySQL-compatible database.
 
